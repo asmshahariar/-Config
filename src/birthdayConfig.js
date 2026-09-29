@@ -52,7 +52,7 @@ export const birthdayText = {
   messageSubtle: "Straight From The Past",
   letterFor: "For",
   letterName: "Jollad",
-  messageBtn: "Wishing You The Best",
+  messageBtn: "Click To Next",
   gifUrl:
     "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHVjZzg2aWp0bjcwNWV6cjVpZzl6OW95cHE4NHN5c3k4eHQ1cmJxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t8xgPfC5oNIRMrNooe/giphy.gif",
   wishText: "Wishing you a day filled with peace,",
