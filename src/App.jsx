@@ -158,7 +158,7 @@ export default function App() {
             </div>
           </div>
           <button className="pill-btn" onClick={() => go("gif")}>
-            Wishing You The Best
+            {T.messageBtn}
           </button>
         </section>
       )}
